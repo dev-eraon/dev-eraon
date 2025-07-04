@@ -1,16 +1,48 @@
-## Hi there 👋
+<!-- eraon/eraon README.md -->
 
-<!--
-**dev-eraon/dev-eraon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello, I'm Eraon (Soonyoung Kwon)
+### "Eraon, Dreaming of a new era"
 
-Here are some ideas to get you started:
+🎮 High school student passionate about **AI**, **Game Development**, and **Creative Coding**.  
+I enjoy building games, experimenting with AI, and exploring how science meets software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+![Eraon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eraon&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eraon&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠 Skills
+### 💻 Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+### 🧰 Tools & Frameworks
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 🧠 About Me
+- 🏫 2nd year of high school student from Korea  
+- 🕹 Game developer (Unity, C#)  
+- 🤖 Interested in AI × Games
+- 📚 Ongoing research in **Bayesian reasoning**, **Reinforcement Learning**, and **Quantum Computing**
+
+---
+
+## 📫 Content
+- ✉️ Mail : frenchksy080527@gmail.com
+- 📸 Instagram: [@dev.eraon](https://instagram.com/dev.eraon)
+
+---
+
+## P.S.
+I'm a beginner, yet I always give my best effort. Thank you :)
