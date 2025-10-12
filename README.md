@@ -40,7 +40,7 @@ I enjoy building games, experimenting with AI, and exploring how science meets s
 
 ## 📫 Content
 - ✉️ Mail : frenchksy080527@gmail.com
-- 📸 Instagram: [@dev.eraon](https://instagram.com/dev.eraon)
+- 📸 Instagram: [@erxa_0n](https://instagram.com/erxa_0n)
 
 ---
 
