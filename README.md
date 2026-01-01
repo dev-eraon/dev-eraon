@@ -1,9 +1,9 @@
 <!-- eraon/eraon README.md -->
 
-## 👋 Hello, I'm Eraon (Soonyoung Kwon)
-### "Eraon, Dreaming of a new era"
+## 👋 Hello, I'm Eraon🌌 (Soonyoung Kwon)
+### ✨"Eraon, Dreaming of a new era"✨
 
-🎮 High school student passionate about **AI**, **Game Development**, and **Creative Coding**.  
+💻 3rd High school student passionate about **AI**, **Game Development**, and **Creative Coding**.  
 I enjoy building games, experimenting with AI, and exploring how science meets software.
 
 ---
@@ -31,10 +31,13 @@ I enjoy building games, experimenting with AI, and exploring how science meets s
 ---
 
 ## 🧠 About Me
-- 🏫 2nd year of high school student from Korea  
-- 🕹 Game developer (Unity, C#)  
+- 🏫 3rd year of high school student from Korea
+- 🖥️ Vice President, 2025 CW Software Labs
+- 🕹️ Game Developer (Unity, C#)
+- ✨ AI Developer (Python)
 - 🤖 Interested in AI × Games
-- 📚 Ongoing research in **Bayesian reasoning**, **Reinforcement Learning**, and **Quantum Computing**
+- 📚 Currently studying Data Structures & Algorithms
+- 😊 ISTP / ESTP
 
 ---
 
@@ -44,5 +47,5 @@ I enjoy building games, experimenting with AI, and exploring how science meets s
 
 ---
 
-## P.S.
+## ✉️ P.S.
 I'm a beginner, yet I always give my best effort. Thank you 🙂
