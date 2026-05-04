@@ -1,7 +1,7 @@
 <!-- eraon/eraon README.md -->
 
 ## Hello, I'm Eraon🌌 (Soonyoung Kwon)
-### ✨"Eraon, Powering a new era"✨
+### ✨"Eraon, Turning on a new era"✨
 
 3rd High school student passionate about **AI**, **Game Development**, and **Creative Coding**.  
 I enjoy making games, experimenting with AI, and exploring how science meets software.
@@ -17,7 +17,7 @@ I enjoy making games, experimenting with AI, and exploring how science meets sof
 
 ## About Me
 - 3rd year of high school student from Korea
-- Game Developer (Unity, C#)
+- Game Developer (Unity & C#)
 - Interested in AI x Games
 - A developer who is constantly learning and growing
 
