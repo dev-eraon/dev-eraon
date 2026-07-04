@@ -2,9 +2,7 @@
 
 ## Hello, I'm Eraon🌌 (Soonyoung Kwon)
 ### ✨"Eraon, Turning on a new era"✨
-
-3rd High school student passionate about AI, Game Development, and Creative Coding.  
-I enjoy making games, experimenting with AI, and exploring how science meets software.
+#### I'm always looking for the KEY🔑 to reach the SKY☁️ ####
 
 ---
 
@@ -16,10 +14,10 @@ I enjoy making games, experimenting with AI, and exploring how science meets sof
 ---
 
 ## About Me
-- 3rd year of high school student from Korea
-- Game Developer (Unity & C#)
-- Interested in AI x Games
-- A developer who is constantly learning and growing
+- 3rd year of high school student from South Korea
+- Aspiring AI & Software Engineer
+- Interested in AI, Web Development, Game Development, Cloud & Server, and Cybersecurity
+- I enjoy exploring how science meets software.
 
 ---
 
@@ -29,8 +27,11 @@ I enjoy making games, experimenting with AI, and exploring how science meets sof
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### Markup
+### Frontends
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+### Backends
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### Tools
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
@@ -42,4 +43,6 @@ I enjoy making games, experimenting with AI, and exploring how science meets sof
 ---
 
 ## P.S.
-My long-term goal is to become a game client developer. Also, as an indie game developer, I will release my game on Steam.
+I hope to release my own indie game on Steam as a personal passion project in the future.
+
+and I'm currently studying Linux (Ubuntu) (০▿০)
